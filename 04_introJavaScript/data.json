@@ -1,0 +1,13 @@
+{
+    "nombre" : "Ricardo" ,
+    "direccion" : "Coyoacan" ,
+    "telefono" : "5512245580" ,
+    "email" : "ricardo.dev@gmail.com",
+    "edad" : "21",
+    "trabajos" : ["desarrollador", "maestro", "diseñador"] ,
+    "mascotas" : {
+        "perro" : "salchicha",
+        "gato" : "siames",
+        "pez" : "dorado"
+    }
+}

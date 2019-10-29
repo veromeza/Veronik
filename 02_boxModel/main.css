@@ -1,0 +1,26 @@
+/*  selectores. Va leyendo de arriba hacia abajo
+ SELECTOR GLOBAL ES UN * CON ESTO VAS A HACER LO SIG A MI PAG ENTRE {} */
+/*  *{
+     background-color:gray;
+ } */
+ /* primer paso linkear y comprobar que esta linkeada la pag */
+/*  div {
+     border: solid 2px;
+     height: 300px;
+ } */
+/* la propiedad border sirve para ver el espacio que esta ocupando */
+header{
+    border: solid 2px;
+}
+
+nav{
+    border: solid 2px; color: gray ;
+}
+a{
+    border: solid 1px; color: crimson;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: darkblue;
+}

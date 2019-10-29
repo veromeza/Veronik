@@ -1,0 +1,85 @@
+.flag{
+    height: 800px;
+    width: 1100px;
+  background: #131841;
+   display: flex;
+}
+
+.izquierda {
+    height: 100%;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  
+  .derecha {
+    height: 100%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  .whiteup1{
+    height: 45%;
+    width: 80%;
+    background-color: #ffffff;
+  display: flex;
+}
+.redup1{
+    height: 85%;
+    width: 80%;
+    background-color:red;  
+}
+.whitedown1{
+    height: 45%;
+    width: 80%;
+    background-color: #ffffff;
+    display: flex;
+  align-items: flex-end;
+}
+.reddown1{
+    height: 85%;
+    width: 80%;
+    background-color:red;
+    
+     
+}
+.whiteup2{
+    height: 45%;
+    width: 99%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.redup2{
+    height: 85%;
+    width: 90%;
+    background-color:red;
+  flex-direction: row-reverse;
+  
+   
+   
+    
+   
+}
+
+.whitedown2{
+    height: 45%;
+    width: 99%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    
+}
+.reddown2{
+    height: 85%;
+    width: 90%;
+    background-color:red;
+
+    
+}
+
