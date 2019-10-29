@@ -12,7 +12,7 @@ console.log (anioActual-Aniodenacimiento)
 
 let Veronica = {
     Nombre : "Veronica" ,
-    Direccion : "Condesa" ;
+    Direccion : "Condesa",
     Tel : "555555555" ,
     Peliculas : {
         drama : ["the notebook" , "the choice" , "titanic" , "Notting Hill" , "the proposal"] ,
@@ -21,6 +21,6 @@ let Veronica = {
         comedia,
         cienciaficcion
     },
-musica : ["clasica" , "rock" , ]
+musica : ["clasica" , "rock"]
 
 }

@@ -77,6 +77,8 @@ let persona = {
     }
 }
 
+
+
 console.log (persona);
 console.log (persona.telefono);
 console.log (persona.mascotas.pez);
