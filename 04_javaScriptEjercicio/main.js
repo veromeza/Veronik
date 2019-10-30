@@ -17,10 +17,10 @@ let Veronica = {
     Peliculas : {
         drama : ["the notebook" , "the choice" , "titanic" , "Notting Hill" , "the proposal"] ,
         series : ["la casa de las flores" , "jane the virgin" , "black mirror" , "la casa de papel"] ,
-        terror,
-        comedia,
-        cienciaficcion
+       /*  "terror",
+        "comedia",
+        "cienciaficcion" */
     },
-musica : ["clasica" , "rock"]
-
+    Musica : ["clasica" , "rock", "indie", "pop"],
+    Mascotas : ["perros" , "gatos" , "urones"]
 }
